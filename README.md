@@ -1,2 +1,2 @@
 # STL-CPP
-learning stl depply focused on vectors
+learning standard template libraries-deeply focused on vectors
